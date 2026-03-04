@@ -1,0 +1,24 @@
+{
+  "extracted_at": "2026-03-03T20:05:18.919046",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/9/sublevel/3",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 9,
+  "choice_index": 3,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "fc48e320-0427-47eb-a516-62cb2a488b1d",
+  "extraction_method": "start_sources",
+  "instructions_chars": 680,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 2465
+    },
+    {
+      "filename": "style.css",
+      "size": 469
+    }
+  ],
+  "image_files": []
+}

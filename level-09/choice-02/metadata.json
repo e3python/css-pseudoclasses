@@ -1,0 +1,49 @@
+{
+  "extracted_at": "2026-03-03T20:05:17.412257",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/9/sublevel/2",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 9,
+  "choice_index": 2,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "77421706-a15d-4b64-822c-5ec4cd323e54",
+  "extraction_method": "start_sources",
+  "instructions_chars": 925,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 1159
+    },
+    {
+      "filename": "style.css",
+      "size": 502
+    }
+  ],
+  "image_files": [
+    {
+      "filename": "griffin.png",
+      "size": 1971349
+    },
+    {
+      "filename": "dragon.png",
+      "size": 1813002
+    },
+    {
+      "filename": "unicorn.png",
+      "size": 1683316
+    },
+    {
+      "filename": "phoenix.png",
+      "size": 1821474
+    },
+    {
+      "filename": "kraken.png",
+      "size": 1767721
+    },
+    {
+      "filename": "bigfoot.jpg",
+      "size": 447656
+    }
+  ]
+}

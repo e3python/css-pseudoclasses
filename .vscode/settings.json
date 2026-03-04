@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.github": true,
+    "**/.vscode": true,
+    "**/metadata.json": true,
+    "**/.copilot-instructions": true
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.html": "${capture}.css"
+  },
+  "workbench.startupEditor": "readme",
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "editor.inlineSuggest.enabled": false
+}

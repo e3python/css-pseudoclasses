@@ -1,0 +1,33 @@
+{
+  "extracted_at": "2026-03-03T20:05:03.157915",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/6/sublevel/3",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 6,
+  "choice_index": 3,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "0a471430-c607-435d-badb-b1e85233b2b4",
+  "extraction_method": "start_sources",
+  "instructions_chars": 687,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 1603
+    },
+    {
+      "filename": "style.css",
+      "size": 1145
+    }
+  ],
+  "image_files": [
+    {
+      "filename": "pyramids.png",
+      "size": 259459
+    },
+    {
+      "filename": "mayanGlyphs.png",
+      "size": 421130
+    }
+  ]
+}

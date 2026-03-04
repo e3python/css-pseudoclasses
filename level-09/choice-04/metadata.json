@@ -1,0 +1,45 @@
+{
+  "extracted_at": "2026-03-03T20:05:21.043066",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/9/sublevel/4",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 9,
+  "choice_index": 4,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "98170ec4-147e-4c6e-bb39-b461b1f5dabe",
+  "extraction_method": "start_sources",
+  "instructions_chars": 2308,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 2391
+    },
+    {
+      "filename": "style.css",
+      "size": 926
+    }
+  ],
+  "image_files": [
+    {
+      "filename": "Tsukemen.jpg",
+      "size": 154792
+    },
+    {
+      "filename": "Shio_Ramen.jpg",
+      "size": 172238
+    },
+    {
+      "filename": "Miso_Ramen.jpg",
+      "size": 156294
+    },
+    {
+      "filename": "Tonkotsu_Ramen.jpg",
+      "size": 119170
+    },
+    {
+      "filename": "Shoyu_Ramen.jpg",
+      "size": 163280
+    }
+  ]
+}

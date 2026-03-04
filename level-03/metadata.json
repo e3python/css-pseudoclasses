@@ -1,0 +1,29 @@
+{
+  "extracted_at": "2026-03-03T20:04:51.019771",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/3",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 3,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "5307bea1-b500-4d01-acda-9af048e9af7f",
+  "level_display_name": "CSD U2L18 order_sb_2_2025",
+  "extraction_method": "start_sources",
+  "instructions_chars": 1929,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 324
+    },
+    {
+      "filename": "style.css",
+      "size": 243
+    }
+  ],
+  "image_files": [],
+  "downloaded_text": [
+    "index.html",
+    "style.css"
+  ],
+  "downloaded_images": []
+}

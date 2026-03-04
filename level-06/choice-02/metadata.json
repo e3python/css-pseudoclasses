@@ -1,0 +1,37 @@
+{
+  "extracted_at": "2026-03-03T20:04:58.317784",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/6/sublevel/2",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 6,
+  "choice_index": 2,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "27cad9cb-fecc-40f9-81b0-18f6518efbaa",
+  "extraction_method": "start_sources",
+  "instructions_chars": 598,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 2288
+    },
+    {
+      "filename": "style.css",
+      "size": 1142
+    }
+  ],
+  "image_files": [
+    {
+      "filename": "invisibleWoman.png",
+      "size": 146199
+    },
+    {
+      "filename": "superman.png",
+      "size": 577785
+    },
+    {
+      "filename": "flash.png",
+      "size": 871865
+    }
+  ]
+}

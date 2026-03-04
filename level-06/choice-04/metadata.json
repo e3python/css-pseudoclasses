@@ -1,0 +1,73 @@
+{
+  "extracted_at": "2026-03-03T20:05:07.142513",
+  "target_url": "https://studio.code.org/courses/web-development-2025/units/1/lessons/18/levels/6/sublevel/4",
+  "course_path": "/courses/web-development-2025/units/1",
+  "lesson": 18,
+  "level": 6,
+  "choice_index": 4,
+  "section_id": null,
+  "user_id": null,
+  "channel_id": "98d7961e-3ca0-4d7a-a27a-88a5f66a186b",
+  "extraction_method": "start_sources",
+  "instructions_chars": 1398,
+  "text_files": [
+    {
+      "filename": "index.html",
+      "size": 1309
+    },
+    {
+      "filename": "style.css",
+      "size": 1152
+    },
+    {
+      "filename": "axolotl.html",
+      "size": 1262
+    },
+    {
+      "filename": "narwhal.html",
+      "size": 1219
+    },
+    {
+      "filename": "platypus.html",
+      "size": 1262
+    }
+  ],
+  "image_files": [
+    {
+      "filename": "venomousSpur.jpg",
+      "size": 43627
+    },
+    {
+      "filename": "platypus.png",
+      "size": 334363
+    },
+    {
+      "filename": "platypusEggs.png",
+      "size": 262210
+    },
+    {
+      "filename": "axolotl.png",
+      "size": 321099
+    },
+    {
+      "filename": "starburstAxolotl.jpg",
+      "size": 18972
+    },
+    {
+      "filename": "axolotlTypes.png",
+      "size": 528076
+    },
+    {
+      "filename": "narwhal.png",
+      "size": 231766
+    },
+    {
+      "filename": "narwhals_breach.jpg",
+      "size": 15422
+    },
+    {
+      "filename": "narwhalTusk.jpg",
+      "size": 5540
+    }
+  ]
+}
